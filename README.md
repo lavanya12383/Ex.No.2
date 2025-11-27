@@ -1,5 +1,5 @@
 
-# Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta 
+## Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta 
 ### ARIGALA LAVANYA                                                                     
 ### REGISTER NUMBER : 212222060019
  
